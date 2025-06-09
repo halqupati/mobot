@@ -1,0 +1,9 @@
+<library path="diffdrive_mobot">
+
+  <class name="mobot_base/DiffDrivemobot" type="mobot_base::DiffDrivemobot" base_class_type="hardware_interface::SystemInterface">
+    <description>
+      Hardware interface implementation for the mobot robot.
+    </description>
+  </class>
+
+</library>
